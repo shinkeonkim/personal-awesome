@@ -11,6 +11,8 @@
 
 - [Pick's theorem](https://ko.m.wikipedia.org/wiki/%ED%94%BD%EC%9D%98_%EC%A0%95%EB%A6%AC)
   - 격자 위 다각형 내에 포함된 점의 개수 관련
+- [Manacher's algorithm](https://www.crocus.co.kr/1075)
+  - 팰림드롬인 부분 문자열을 모두 알아내기
 
 
 
