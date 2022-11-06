@@ -1,5 +1,7 @@
 # personal-awesome
 
+> 나만의 awesome 북마크 🔖
+
 ## algorithm
 
 ### blog
