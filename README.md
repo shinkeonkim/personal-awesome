@@ -22,7 +22,8 @@
   - 격자 위 다각형 내에 포함된 점의 개수 관련
 - [Manacher's algorithm](https://www.crocus.co.kr/1075)
   - 팰림드롬인 부분 문자열을 모두 알아내기
-
+ - [Boyer-Moore 과반수 투표 알고리즘](https://sgc109.github.io/2020/11/30/boyer-moore-majority-vote-algorithm/)
+   - 과반에 해당하는 원소가 있다는 가정이 있을 때, 해당 원소를 찾아내기
 
 
 ## AWS
