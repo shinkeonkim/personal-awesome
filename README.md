@@ -27,7 +27,16 @@
  - [Boyer-Moore 과반수 투표 알고리즘](https://sgc109.github.io/2020/11/30/boyer-moore-majority-vote-algorithm/)
    - 과반에 해당하는 원소가 있다는 가정이 있을 때, 해당 원소를 찾아내기
 
-
 ## AWS
 
 - [https://workshops.aws/](https://workshops.aws/)
+
+## Design
+
+### Color
+- [WebGradients](https://webgradients.com/)
+- [2colors](https://2colors.colorion.co/)
+
+### Font
+- [noonnu](https://noonnu.cc/)
+
