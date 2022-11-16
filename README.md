@@ -45,5 +45,7 @@
 ### Font
 - [noonnu](https://noonnu.cc/)
 
-### Web UI
+### CSS / Web UI
 - [Tistory - @web's CSS](https://wsss.tistory.com/)
+- [CSS { In Real Life }](https://css-irl.info/)
+
