@@ -42,6 +42,10 @@
 - [WebGradients](https://webgradients.com/)
 - [2colors](https://2colors.colorion.co/)
 
+### Icon / Emoji
+- [Emoji Kitchen](https://emoji.supply/kitchen/)
+- [Material Icons](https://mui.com/material-ui/material-icons/)
+
 ### Font
 - [noonnu](https://noonnu.cc/)
 
