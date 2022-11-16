@@ -49,3 +49,7 @@
 - [Tistory - @web's CSS](https://wsss.tistory.com/)
 - [CSS { In Real Life }](https://css-irl.info/)
 
+### Resources
+
+#### Images
+- [Freepik](https://www.freepik.com/)
